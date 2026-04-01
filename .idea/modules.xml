@@ -6,6 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Mid_Term_Trial/Mid_Term_Trial.iml" filepath="$PROJECT_DIR$/Mid_Term_Trial/Mid_Term_Trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex1/ex1.iml" filepath="$PROJECT_DIR$/lecture1/ex1/ex1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3/ex1./ex1..iml" filepath="$PROJECT_DIR$/lecture3/ex1./ex1..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex11/ex11.iml" filepath="$PROJECT_DIR$/exercising/ex11/ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex12/ex12.iml" filepath="$PROJECT_DIR$/exercising/ex12/ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex13/ex13.iml" filepath="$PROJECT_DIR$/exercising/ex13/ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex14/ex14.iml" filepath="$PROJECT_DIR$/exercising/ex14/ex14.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex1_lec2/ex1_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex1_lec2/ex1_lec2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2_exercises/ex1_lec2ex/ex1_lec2ex.iml" filepath="$PROJECT_DIR$/lecture2_exercises/ex1_lec2ex/ex1_lec2ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3_exercises/ex1_lec3ex/ex1_lec3ex.iml" filepath="$PROJECT_DIR$/lecture3_exercises/ex1_lec3ex/ex1_lec3ex.iml" />
@@ -14,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/Mid_Term_Trial/ex1_m/ex1_m.iml" filepath="$PROJECT_DIR$/Mid_Term_Trial/ex1_m/ex1_m.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex2/ex2.iml" filepath="$PROJECT_DIR$/lecture1/ex2/ex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3/ex2./ex2..iml" filepath="$PROJECT_DIR$/lecture3/ex2./ex2..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex21/ex21.iml" filepath="$PROJECT_DIR$/exercising/ex21/ex21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex22/ex22.iml" filepath="$PROJECT_DIR$/exercising/ex22/ex22.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/ex2_lec1ex/ex2_lec1ex.iml" filepath="$PROJECT_DIR$/lecture1_exercises/ex2_lec1ex/ex2_lec1ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex2_lec2/ex2_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex2_lec2/ex2_lec2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2_exercises/ex2_lec2ex/ex2_lec2ex.iml" filepath="$PROJECT_DIR$/lecture2_exercises/ex2_lec2ex/ex2_lec2ex.iml" />
@@ -23,26 +29,34 @@
       <module fileurl="file://$PROJECT_DIR$/Mid_Term_Trial/ex2_m/ex2_m.iml" filepath="$PROJECT_DIR$/Mid_Term_Trial/ex2_m/ex2_m.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex3/ex3.iml" filepath="$PROJECT_DIR$/lecture1/ex3/ex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3/ex3./ex3..iml" filepath="$PROJECT_DIR$/lecture3/ex3./ex3..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex31/ex31.iml" filepath="$PROJECT_DIR$/exercising/ex31/ex31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex32/ex32.iml" filepath="$PROJECT_DIR$/exercising/ex32/ex32.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/ex3_lec1ex/ex3_lec1ex.iml" filepath="$PROJECT_DIR$/lecture1_exercises/ex3_lec1ex/ex3_lec1ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex3_lec2/ex3_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex3_lec2/ex3_lec2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2_exercises/ex3_lec2ex/ex3_lec2ex.iml" filepath="$PROJECT_DIR$/lecture2_exercises/ex3_lec2ex/ex3_lec2ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3_exercises/ex3_lec3ex/ex3_lec3ex.iml" filepath="$PROJECT_DIR$/lecture3_exercises/ex3_lec3ex/ex3_lec3ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex4/ex4.iml" filepath="$PROJECT_DIR$/lecture1/ex4/ex4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3/ex4./ex4..iml" filepath="$PROJECT_DIR$/lecture3/ex4./ex4..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex41/ex41.iml" filepath="$PROJECT_DIR$/exercising/ex41/ex41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex42/ex42.iml" filepath="$PROJECT_DIR$/exercising/ex42/ex42.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/ex4_lec1ex/ex4_lec1ex.iml" filepath="$PROJECT_DIR$/lecture1_exercises/ex4_lec1ex/ex4_lec1ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex4_lec2/ex4_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex4_lec2/ex4_lec2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2_exercises/ex4_lec2ex/ex4_lec2ex.iml" filepath="$PROJECT_DIR$/lecture2_exercises/ex4_lec2ex/ex4_lec2ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3_exercises/ex4_lec3ex/ex4_lec3ex.iml" filepath="$PROJECT_DIR$/lecture3_exercises/ex4_lec3ex/ex4_lec3ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex5/ex5.iml" filepath="$PROJECT_DIR$/lecture1/ex5/ex5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3/ex5./ex5..iml" filepath="$PROJECT_DIR$/lecture3/ex5./ex5..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/ex51/ex51.iml" filepath="$PROJECT_DIR$/exercising/ex51/ex51.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/ex5_lec1ex/ex5_lec1ex.iml" filepath="$PROJECT_DIR$/lecture1_exercises/ex5_lec1ex/ex5_lec1ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex5_lec2/ex5_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex5_lec2/ex5_lec2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2_exercises/ex5_lec2ex/ex5_lec2ex.iml" filepath="$PROJECT_DIR$/lecture2_exercises/ex5_lec2ex/ex5_lec2ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture3_exercises/ex5_lec3ex/ex5_lec3ex.iml" filepath="$PROJECT_DIR$/lecture3_exercises/ex5_lec3ex/ex5_lec3ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture4_exercises/ex5_lec4e/ex5_lec4e.iml" filepath="$PROJECT_DIR$/lecture4_exercises/ex5_lec4e/ex5_lec4e.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/ex6/ex6.iml" filepath="$PROJECT_DIR$/lecture1/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture3/ex6./ex6..iml" filepath="$PROJECT_DIR$/lecture3/ex6./ex6..iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/ex6_lec1ex/ex6_lec1ex.iml" filepath="$PROJECT_DIR$/lecture1_exercises/ex6_lec1ex/ex6_lec1ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/ex6_lec2/ex6_lec2.iml" filepath="$PROJECT_DIR$/lecture2/ex6_lec2/ex6_lec2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture3/ex7./ex7..iml" filepath="$PROJECT_DIR$/lecture3/ex7./ex7..iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercising/exercising.iml" filepath="$PROJECT_DIR$/exercising/exercising.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1/lecture1.iml" filepath="$PROJECT_DIR$/lecture1/lecture1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture1_exercises/lecture1_exercises.iml" filepath="$PROJECT_DIR$/lecture1_exercises/lecture1_exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture2/lecture2.iml" filepath="$PROJECT_DIR$/lecture2/lecture2.iml" />
